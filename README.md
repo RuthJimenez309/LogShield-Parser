@@ -1,1 +1,0 @@
-# LogShield-Parser
